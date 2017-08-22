@@ -1,7 +1,7 @@
 # GoCarRegistrationAPI
 A wrapper for the Car Registration API in Go
 
-###Usage
+###Usage###
 ```go
 package main
 import "github.com/infiniteloopltd/GoCarRegistrationAPI"
