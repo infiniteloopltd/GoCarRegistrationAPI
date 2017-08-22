@@ -1,5 +1,6 @@
 # GoCarRegistrationAPI
-A wrapper for the Car Registration API in Go
+A wrapper for the Car Registration API in Go. To use this package you will need a username and password from
+http://www.vehicleregistrationapi.com 
 
 ## Usage
 ```go
